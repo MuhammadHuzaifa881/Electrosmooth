@@ -1,0 +1,778 @@
+.backgroundColor {
+    background-color: rgba(244, 153, 8, 1);
+}
+
+.verticalLine1 {
+    border-left: 1px solid white;
+    height: 64px;
+    position: absolute;
+    left: 82%;
+    margin-left: -3px;
+    top: 0;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.ContactMe {
+    color: white;
+    margin-left: 300px;
+    height: 10px;
+}
+
+.adjustlink {
+    margin-top: -10px;
+    height: 10px;
+}
+
+.sp1 {
+    margin-left: 300px;
+    color: white;
+}
+
+.sp2 {
+    margin-left: 10px;
+}
+
+.sp3 {
+    color: white;
+    margin-left: 30px;
+}
+
+.contact2 {
+    margin-left: 20px;
+    color: white;
+}
+
+.verticalLine2 {
+    border-left: 1px solid white;
+    height: 64px;
+    position: absolute;
+    left: 88%;
+    margin-left: -3px;
+    top: 0;
+}
+
+.sp4 {
+    margin-left: 300px;
+}
+
+.SearchInput {
+    width: 650px;
+    margin-left: 550px;
+    border-radius: 20px;
+    height: 50px;
+    border-width: 5px;
+    border-color: grey;
+}
+
+input[type=search]:focus {
+    outline: none;
+    border-color: grey;
+}
+
+.form1 {
+    margin-top: -50px;
+}
+
+.sp5 {
+    margin-left: -60px;
+    padding-top: 10px;
+    padding-left: -60px;
+}
+
+.dropdownStylling {
+    margin-left: -200px;
+    margin-top: -35px;
+    width: 180px;
+    height: 49px;
+    border-radius: 0.001px;
+    border-color: grey;
+    border-width: 5px;
+    border-style: solid;
+    padding-top: 7px;
+    padding-left: 10px;
+}
+
+.scrolldown {
+    overflow-y: scroll;
+    height: 200px;
+    max-height: 200px;
+    width: 260px;
+}
+
+.bolder {
+    font-weight: bolder;
+}
+
+.sp6 {
+    margin-left: 100px;
+}
+
+.sp7 {
+    margin-left: 10px;
+}
+
+/* drop down using hover and  Dropdown Content Configuration  */
+.ColorContent:hover {
+    color: gold;
+}
+
+/* Sub  dropdown parts allignment */
+.dropdownlistPart1 {
+    margin-left: 400px;
+}
+
+.label-lighting {
+    font-weight: bold;
+}
+
+.dropdownlistPart2 {
+    margin-left: 520px;
+    margin-top: -40px;
+}
+
+.label-fans {
+    font-weight: bold;
+}
+
+.dropdownlistPart3 {
+    margin-left: 590px;
+    margin-top: -40px;
+}
+
+.label-Switches {
+    font-weight: bold;
+}
+
+.dropdownlistPart4 {
+    margin-left: 790px;
+    margin-top: -40px;
+}
+
+.label-breakers {
+    font-weight: bold;
+}
+
+.dropdownlistPart5 {
+    margin-left: 910px;
+    margin-top: -40px;
+}
+
+.label-rechargeables {
+    font-weight: bold;
+}
+
+.dropdownlistPart6 {
+    margin-left: 1080px;
+    margin-top: -40px;
+}
+
+.label-electrical-accessories {
+    font-weight: bold;
+}
+
+.dropdownlistPart7 {
+    margin-left: 1320px;
+    margin-top: -40px;
+}
+
+.label-home-applainces {
+    font-weight: bold;
+}
+
+.PosterAdjust {
+    margin-left: 250px;
+}
+
+.LabelAdustFan {
+    font-size: 30px;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+
+.AdjustLabel {
+    text-decoration-line: underline;
+    text-decoration-color: blue;
+}
+
+/*                           Fan 1             */
+.fan1 {
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.PriceColor {
+    color: rgb(167, 142, 1);
+}
+
+.PriceFont {
+    font-size: 15px;
+    margin-top: -10px;
+
+}
+
+.Add-to-cart1 {
+    width: 120px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    background-color: rgba(244, 153, 8, 1);
+    margin-top: -10px;
+    border-radius: 20px;
+    border-color: none;
+}
+
+/*                          Fan 2                              */
+.fan2 {
+    font-size: 12px;
+    margin-left: 250px;
+    margin-top: -120px;
+}
+
+.PriceFont2 {
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+.PriceColor2 {
+    color: rgb(167, 142, 1);
+}
+
+.Add-to-cart2 {
+    width: 120px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    background-color: rgba(244, 153, 8, 1);
+    margin-top: -10px;
+    border-radius: 20px;
+    margin-left: 250px;
+}
+
+/*                            Fan 3         */
+.fan3 {
+    font-size: 12px;
+    margin-left: 450px;
+    margin-top: -100px;
+}
+
+.PriceFont3 {
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+.PriceColor3 {
+    color: rgb(167, 142, 1);
+}
+
+.Add-to-cart3 {
+    width: 120px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    background-color: rgba(244, 153, 8, 1);
+    margin-top: -10px;
+    border-radius: 20px;
+    margin-left: 450px;
+}
+
+/*                           Fan 4                        */
+.fan4 {
+    font-size: 12px;
+    margin-left: 700px;
+    margin-top: -120px;
+}
+
+.PriceFont4 {
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+.PriceColor4 {
+    color: rgb(167, 142, 1);
+}
+
+.Add-to-cart4 {
+    width: 120px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    background-color: rgba(244, 153, 8, 1);
+    margin-top: -10px;
+    border-radius: 20px;
+    margin-left: 700px;
+}
+
+/*                                     Fan 5                  */
+.fan5 {
+    font-size: 12px;
+    margin-left: 900px;
+    margin-top: -100px;
+}
+
+.PriceFont5 {
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+.PriceColor5 {
+    color: rgb(167, 142, 1);
+}
+
+.Add-to-cart5 {
+    width: 120px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    background-color: rgba(244, 153, 8, 1);
+    margin-top: -20px;
+    border-radius: 20px;
+    margin-left: 900px;
+}
+
+/*                         Fan  6                       */
+.fan6 {
+    font-size: 12px;
+    margin-left: 1100px;
+    margin-top: -120px;
+}
+
+.PriceFont6 {
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+.PriceColor6 {
+    color: rgb(167, 142, 1);
+}
+
+.Add-to-cart6 {
+    width: 120px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    background-color: rgba(244, 153, 8, 1);
+    margin-top: -20px;
+    border-radius: 20px;
+    margin-left: 1100px;
+}
+
+/* Poster 2 dual button */
+.Shop-Now-1 {
+    width: 120px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    background-color: rgba(244, 153, 8, 1);
+    border-radius: 20px;
+    border-color: none;
+    margin-left: 25px;
+}
+
+.Shop-Now-2 {
+    margin-left: 600px;
+    width: 120px;
+    height: 30px;
+    font-size: 15px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.btn-Shop {
+    margin-top: -150px;
+}
+
+.DivisionAdustLight {
+    font-size: 30px;
+    margin-left: 250px;
+    margin-top: 150px;
+}
+
+.AdjustLabelLighting {
+    text-decoration-line: underline;
+    text-decoration-color: blue;
+}
+
+.LightDes1 {
+    font-size: 12px;
+    margin-top: -50px;
+}
+
+.LightDes2 {
+    font-size: 12px;
+    margin-left: 240px;
+    margin-top: -10px;
+}
+
+.Add-to-cart2 {
+    width: 120px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    background-color: rgba(244, 153, 8, 1);
+    margin-top: -10px;
+    border-radius: 20px;
+    margin-left: 240px;
+}
+
+.LightDes3 {
+    font-size: 12px;
+    margin-left: 400px;
+    margin-top: -90px;
+}
+
+.priceAdj3 {
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 400px;
+}
+
+.Add-to-cart-Solar {
+    width: 120px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    background-color: rgba(244, 153, 8, 1);
+    margin-top: -10px;
+    border-radius: 20px;
+    margin-left: 400px;
+}
+
+.LightDes4 {
+    font-size: 12px;
+    margin-left: 580px;
+    margin-top: -90px;
+}
+
+.priceAdj4 {
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 580px;
+}
+
+.Add-to-cart-Stadium {
+    width: 120px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    background-color: rgba(244, 153, 8, 1);
+    margin-top: -10px;
+    border-radius: 20px;
+    margin-left: 580px;
+}
+
+.LightDes5 {
+    font-size: 12px;
+    margin-left: 850px;
+    margin-top: -90px;
+}
+
+.priceAdj5 {
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 850px;
+}
+
+.Add-to-cart-StreetLight {
+    width: 120px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    background-color: rgba(244, 153, 8, 1);
+    margin-top: -10px;
+    border-radius: 20px;
+    margin-left: 850px;
+}
+
+.LightDes6 {
+    font-size: 12px;
+    margin-left: 1050px;
+    margin-top: -190px;
+}
+
+.priceAdj6 {
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 1050px;
+}
+
+.Add-to-cart-HighBAyLight {
+    width: 120px;
+    height: 30px;
+    font-size: 15px;
+    color: white;
+    background-color: rgba(244, 153, 8, 1);
+    margin-top: -10px;
+    border-radius: 20px;
+    margin-left: 1050px;
+}
+
+.BottomFooter {
+    background-color: rgba(244, 153, 8, 1);
+    margin-top: 150px;
+    width: 100%;
+    height: 550px;
+}
+
+.footer-Contact {
+    margin-top: 100px;
+    margin-left: 500px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.footer-Price-Caution {
+    margin-top: 100px;
+    margin-left: 220px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.footer-Branches {
+    margin-top: 10px;
+    margin-left: 500px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.footer-Branches-Paragraph1 {
+    margin-left: 500px;
+    color: white;
+    font-size: 12px;
+}
+
+.footer-Price-Caution-Paragragh1 {
+    margin-left: 820px;
+    margin-top: -100px;
+    color: white;
+    font-size: 12px;
+}
+
+.email-style {
+    margin-left: 1200px;
+    margin-top: -80px;
+    width: 380px;
+    height: 48px;
+    border: none;
+    border-color: none;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    outline: none;
+    font-size: 25px;
+}
+
+.Subscribe-Button {
+    margin-left: 1500px;
+    height: 48px;
+    width: 140px;
+    margin-top: -80px;
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+.phone-footer {
+    color: white;
+    font-weight: bold;
+    margin-left: 500px;
+    margin-top: 10px;
+}
+
+.information-footer {
+    margin-left: 270px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.policy-footer {
+    margin-left: 240px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.number-footer {
+    color: white;
+    margin-left: 500px;
+    font: 12px;
+}
+
+.aboutus-footer {
+    margin-left: 110px;
+}
+
+.orderHistory-footer {
+    margin-left: 140px;
+}
+
+.warranty-footer {
+    margin-left: 70px;
+}
+
+.termsCondition-footer {
+    margin-left: 100px;
+}
+
+.whatsapp-footer {
+    color: white;
+    font-weight: bold;
+    margin-left: 500px;
+}
+
+.contactus-footer {
+    color: white;
+    margin-left: 245px;
+}
+
+.advanceSearch-footer {
+    color: white;
+    margin-left: 125px;
+}
+
+.refundExchange-footer {
+    color: white;
+    margin-left: 50px;
+}
+
+.whatsappNumber-footer {
+    color: white;
+    margin-left: 500px;
+}
+
+.myAccount-footer {
+    margin-left: 220px;
+    color: white;
+}
+
+.createAccount-footer {
+    color: white;
+    margin-left: 120px;
+}
+
+.securityPrivacy-footer {
+    color: white;
+    margin-left: 60px;
+}
+
+.emailId-footer {
+    color: white;
+    margin-left: 500px;
+    font-weight: bold;
+}
+
+.emailAddress-footer {
+    color: white;
+    margin-left: 500px;
+}
+
+.workingDays-footer {
+    color: white;
+    margin-left: 500px;
+    font-weight: bold;
+}
+
+.timing-footer {
+    color: white;
+    margin-left: 500px;
+}
+
+/* Apply css property to links */
+a.aboutus-footer:hover {
+    color: white;
+    text-decoration-line: underline;
+}
+
+a.termsCondition-footer:hover {
+    color: white;
+    text-decoration-line: underline;
+}
+
+a.orderHistory-footer:hover {
+    color: white;
+    text-decoration-line: underline;
+}
+
+a.warranty-footer:hover {
+    color: white;
+    text-decoration-line: underline;
+}
+
+a.contactus-footer:hover {
+    color: white;
+    text-decoration-line: underline;
+}
+
+a.advanceSearch-footer:hover {
+    color: white;
+    text-decoration-line: underline;
+}
+
+a.refundExchange-footer:hover {
+    color: white;
+    text-decoration-line: underline;
+}
+
+a.myAccount-footer:hover {
+    color: white;
+    text-decoration-line: underline;
+}
+
+a.createAccount-footer:hover {
+    color: white;
+    text-decoration-line: underline;
+}
+
+a.securityPrivacy-footer:hover {
+    color: white;
+    text-decoration-line: underline;
+}
+
+.copyright-footer {
+    margin-left: 500px;
+    margin-top: 20px;
+    color: white;
+}
+
+.facebook-footer:hover {
+    background: #3b5998;
+    border-radius: 15px;
+}
+
+.twitter-footer:hover {
+    background: #1DA1F2;
+    border-radius: 30px;
+}
+
+.instagram-footer:hover {
+    background: #8a3ab9;
+    border-radius: 900px;
+    padding: 3px;
+}
+
+.youtube-footer:hover {
+    background: #FF0000;
+    width: 50px;
+    height: 25px;
+    border-radius: 25px;
+    padding-top: -40px;
+}
+
+.whatsapp-footer:hover {
+    background: #25D366;
+    border-radius: 25px;
+
+}
+
+.pinterest-footer:hover {
+    background: #E60023;
+    border-radius: 25px;
+}
